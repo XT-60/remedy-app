@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-px&3%hy^rk+z*fccsu#-o2d%yte(axq*-3+5e17ikqcv_51lna
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['xt60.pythonanywhere.com','127.0.0.1']
+ALLOWED_HOSTS = ['xt60.pythonanywhere.com','127.0.0.1','.onrender.com']
 os.environ['DJANGO_SETTINGS_MODULE'] = 'remproject.settings'
 
 
